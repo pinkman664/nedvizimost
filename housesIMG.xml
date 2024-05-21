@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<images>
+  <block>
+    <img>assets\first1.webp</img>
+    <img>assets\first2.webp</img>
+    <img>assets\first3.webp</img>
+    <img>assets\first4.webp</img>
+    <img>assets\first5.webp</img>
+  </block>
+  <block>
+    <img>assets\sec1.webp</img>
+    <img>assets\sec2.webp</img>
+    <img>assets\sec3.webp</img>
+    <img>assets\sec4.webp</img>
+    <img>assets\sec5.webp</img>
+  </block>
+  <block>
+    <img>assets\third1.webp</img>
+    <img>assets\third2.webp</img>
+    <img>assets\third3.webp</img>
+    <img>assets\third4.webp</img>
+    <img>assets\third5.webp</img>
+  </block>
+  <block>
+    <img>assets\four1.webp</img>
+    <img>assets\four2.webp</img>
+    <img>assets\four3.webp</img>
+    <img>assets\four4.webp</img>
+    <img>assets\four5.webp</img>
+  </block>
+  <block>
+    <img>assets\five1.webp</img>
+    <img>assets\five2.webp</img>
+    <img>assets\five3.webp</img>
+    <img>assets\five4.webp</img>
+    <img>assets\five5.webp</img>
+  </block>
+  <block>
+    <img>assets\six1.webp</img>
+    <img>assets\six2.webp</img>
+    <img>assets\six3.webp</img>
+    <img>assets\six4.webp</img>
+    <img>assets\six5.webp</img>
+  </block>
+</images>

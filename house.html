@@ -1,0 +1,82 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Дома</title>
+    <link rel="stylesheet" href="houseCSS.css">
+</head>
+<body>
+    <div>
+        <nav>
+            <ul><li><img src="assets\logo.svg" alt="Logo" class="header-logo"></li>
+
+                <li><a href="index.html">Главная</a></li>
+                <li><a href="forSell.html">Покупка</a></li>
+                <li><a href="svyaz.html">Консультация</a></li>
+            </ul>
+        </nav>
+    </div>
+    <p class="title-sell1">$975/mo</p>
+    <p class="title-sell2">614 Adams Ave Unit A1, Киллин</p>
+    <div class="slider-wrapper">
+        <div class="slider-container">
+
+    </div>
+
+    <div class="thumbnails">
+        <span class="thumbnail active" onclick="changeSlide(0)"></span>
+        <span class="thumbnail" onclick="changeSlide(1)"></span>
+        <span class="thumbnail" onclick="changeSlide(2)"></span>
+        <span class="thumbnail" onclick="changeSlide(3)"></span>
+        <span class="thumbnail" onclick="changeSlide(4)"></span>
+    </div>
+    <iframe class="map-iframe" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d577343.9849883706!2d36.72619663025082!3d55.58025703866834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1714930360065!5m2!1sru!2sby" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    
+    <div class="comments">
+        <div id="houseInfo">
+            <div class="line">
+                <div class="label">Тип здания</div>
+                <div class="value" name="type"></div>
+            </div>
+            <div class="line">
+                <div class="label">Этажность</div>
+                <div class="value" name="floors"></div>
+            </div>
+            <div class="line">
+                <div class="label">Общая площадь</div>
+                <div class="value" name="totalArea"></div>
+            </div>
+            <div class="line">
+                <div class="label">Площадь участка</div>
+                <div class="value" name="plotArea"></div>
+            </div>
+            <div class="line">
+                <div class="label">Высота потолков в метрах</div>
+                <div class="value" name="ceilingHeight"></div>
+            </div>
+            <div class="line">
+                <div class="label">Характеристики здания</div>
+                <div class="value" name="buildingFeatures"></div>
+            </div>
+        </div>
+    </div>
+    <a href="svyaz.html"><button class="register-button">Записаться на просмотр</button></a>
+    </div>
+
+    <footer>
+        <div class="footer-links">
+            <a href="#"><img src="assets\124021.png" alt="Link 1"></a>
+            <a href="#"><img src="assets\2111463.png" alt="Link 2"></a>
+            <a href="#"><img src="assets\njhGJl9NA0s.jpg" alt="Link 3"></a>
+        </div>
+    </footer>
+    <script src="sliderHouse.js"></script>
+    <script src="difHouses.js"></script> 
+    <script src="difIMG.js"></script> 
+    
+</body>
+</html>

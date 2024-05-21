@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<houses>
+    <house>
+        <parameter>
+            <label>Тип здания</label>
+            <value name="type">Кирпичный</value>
+        </parameter>
+        <parameter>
+            <label>Этажность</label>
+            <value name="floors">2</value>
+        </parameter>
+        <parameter>
+            <label>Общая площадь</label>
+            <value name="totalArea">1284.2 м2</value>
+        </parameter>
+        <parameter>
+            <label>Площадь участка</label>
+            <value name="plotArea">1540 сот.</value>
+        </parameter>
+        <parameter>
+            <label>Высота потолков в метрах</label>
+            <value name="ceilingHeight">18</value>
+        </parameter>
+        <parameter>
+            <label>Характеристики здания</label>
+            <value name="buildingFeatures">Доступ на объект 24/7, Отдельный вход</value>
+        </parameter>
+    </house>
+    <house>
+        <parameter>
+            <label>Тип здания</label>
+            <value name="type">Панельный</value>
+        </parameter>
+        <parameter>
+            <label>Этажность</label>
+            <value name="floors">3</value>
+        </parameter>
+        <parameter>
+            <label>Общая площадь</label>
+            <value name="totalArea">1500 м2</value>
+        </parameter>
+        <parameter>
+            <label>Площадь участка</label>
+            <value name="plotArea">2000 сот.</value>
+        </parameter>
+        <parameter>
+            <label>Высота потолков в метрах</label>
+            <value name="ceilingHeight">20</value>
+        </parameter>
+        <parameter>
+            <label>Характеристики здания</label>
+            <value name="buildingFeatures">Доступ на объект 24/7, Отдельный вход, Подъезд с улицы</value>
+        </parameter>
+    </house>
+<house>
+   <parameter>
+       <label>Тип здания</label>
+       <value name="type">Кирпичный</value>
+   </parameter>
+   <parameter>
+       <label>Этажность</label>
+       <value name="floors">5</value>
+   </parameter>
+   <parameter>
+       <label>Общая площадь</label>
+       <value name="totalArea">2000 м2</value>
+   </parameter>
+   <parameter>
+       <label>Площадь участка</label>
+       <value name="plotArea">1500 сот.</value>
+   </parameter>
+   <parameter>
+       <label>Высота потолков в метрах</label>
+       <value name="ceilingHeight">25</value>
+   </parameter>
+   <parameter>
+       <label>Характеристики здания</label>
+       <value name="buildingFeatures">Охрана, Лифт, Парковка</value>
+   </parameter>
+</house>
+
+<house>
+   <parameter>
+       <label>Тип здания</label>
+       <value name="type">Деревянный</value>
+   </parameter>
+   <parameter>
+       <label>Этажность</label>
+       <value name="floors">2</value>
+   </parameter>
+   <parameter>
+       <label>Общая площадь</label>
+       <value name="totalArea">1200 м2</value>
+   </parameter>
+   <parameter>
+       <label>Площадь участка</label>
+       <value name="plotArea">1000 сот.</value>
+   </parameter>
+   <parameter>
+       <label>Высота потолков в метрах</label>
+       <value name="ceilingHeight">15</value>
+   </parameter>
+   <parameter>
+       <label>Характеристики здания</label>
+       <value name="buildingFeatures">Сад, Подвал, Бассейн</value>
+   </parameter>
+</house>
+
+<house>
+   <parameter>
+       <label>Тип здания</label>
+       <value name="type">Монолитный</value>
+   </parameter>
+   <parameter>
+       <label>Этажность</label>
+       <value name="floors">10</value>
+   </parameter>
+   <parameter>
+       <label>Общая площадь</label>
+       <value name="totalArea">3000 м2</value>
+   </parameter>
+   <parameter>
+       <label>Площадь участка</label>
+       <value name="plotArea">2500 сот.</value>
+   </parameter>
+   <parameter>
+       <label>Высота потолков в метрах</label>
+       <value name="ceilingHeight">30</value>
+   </parameter>
+   <parameter>
+       <label>Характеристики здания</label>
+       <value name="buildingFeatures">Терраса, Балкон, Кондиционирование</value>
+   </parameter>
+</house>
+
+<house>
+   <parameter>
+       <label>Тип здания</label>
+       <value name="type">Каркасно-щитовой</value>
+   </parameter>
+   <parameter>
+       <label>Этажность</label>
+       <value name="floors">4</value>
+   </parameter>
+   <parameter>
+       <label>Общая площадь</label>
+       <value name="totalArea">1800 м2</value>
+   </parameter>
+   <parameter>
+       <label>Площадь участка</label>
+       <value name="plotArea">1700 сот.</value>
+   </parameter>
+   <parameter>
+       <label>Высота потолков в метрах</label>
+       <value name="ceilingHeight">18</value>
+   </parameter>
+   <parameter>
+       <label>Характеристики здания</label>
+       <value name="buildingFeatures">Склад, Офис, Лаборатория</value>
+   </parameter>
+</house>
